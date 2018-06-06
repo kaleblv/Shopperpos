@@ -1,0 +1,67 @@
+{
+  "_class": "bitmap",
+  "clippingMask": "{{0, 0}, {1, 1}}",
+  "do_objectID": "774282C8-D672-44E7-899F-71DC5BB1D8DC",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "fillReplacesImage": false,
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "height": 1133,
+    "width": 1544,
+    "x": -100,
+    "y": -2
+  },
+  "image": {
+    "_class": "MSJSONFileReference",
+    "_ref": "images/cf6d4eb4afb84df165f0cef3843d0d4d789a3fc3.png",
+    "_ref_class": "MSImageData"
+  },
+  "intendedDPI": 72,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": true,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "login-desktop-bg",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "constraints": {
+          "aspectRatio": {
+            "constant": 1133,
+            "enabled": 1,
+            "modelID": "constraint_8d05afc9-778b-4505-bda4-f372bf2b1a33",
+            "model_class": "ADModelConstraint",
+            "model_version": 0.1,
+            "multiplier": 1543.597
+          },
+          "automatic": 1,
+          "modelID": "viewConstraints_8a892a14-7f32-409e-b482-932651758d43",
+          "model_class": "ADModelViewConstraints",
+          "model_version": 0.1,
+          "scaleFactor": 1
+        }
+      }
+    }
+  }
+}

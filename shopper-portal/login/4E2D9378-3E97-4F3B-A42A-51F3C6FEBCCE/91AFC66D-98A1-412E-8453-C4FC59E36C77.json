@@ -1,0 +1,70 @@
+{
+  "_class": "bitmap",
+  "clippingMask": "{{0, 0}, {1, 1}}",
+  "do_objectID": "91AFC66D-98A1-412E-8453-C4FC59E36C77",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "F77B094A-4E57-44AD-ACFF-5A8B62A3D119",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "fillReplacesImage": false,
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "2D05822B-22DA-4704-B268-16A38F971F50",
+    "height": 1169,
+    "width": 1754,
+    "x": -101,
+    "y": 7
+  },
+  "image": {
+    "_class": "MSJSONFileReference",
+    "_ref": "images/da8a6eb5b390c386d5c6397286394572ef4fd13c.png",
+    "_ref_class": "MSImageData"
+  },
+  "intendedDPI": 72,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "login-desktop-bg",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "5B08B668-2955-4A34-B70B-BAE6E223419E",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "constraints": {
+          "aspectRatio": {
+            "constant": 1168.993,
+            "enabled": 1,
+            "modelID": "constraint_8d05afc9-778b-4505-bda4-f372bf2b1a33",
+            "model_class": "ADModelConstraint",
+            "model_version": 0.1,
+            "multiplier": 1754
+          },
+          "automatic": 1,
+          "modelID": "viewConstraints_8a892a14-7f32-409e-b482-932651758d43",
+          "model_class": "ADModelViewConstraints",
+          "model_version": 0.1,
+          "scaleFactor": 1
+        }
+      }
+    }
+  }
+}

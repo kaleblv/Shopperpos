@@ -1,0 +1,117 @@
+{
+  "_class": "group",
+  "do_objectID": "6538A659-B3D3-4F2A-AE7F-D5235188F68D",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 500,
+    "width": 421,
+    "x": 183,
+    "y": 262
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "54442A62-D6D5-4979-943F-B9F2796B01AB"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "1D31C23D-570A-43A2-B033-63CB1ECF5143"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "B354CD7E-0DA2-425A-8650-F8240402593A"
+    },
+    {
+      "class": "text",
+      "id": "467E973F-FF54-46B5-BCA0-0199601E9711"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "C029F98A-2936-4365-8B4E-3A6B85EDDB6B"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "6F0C8952-740E-4C5C-A80D-CEF52DEA1A2A"
+    },
+    {
+      "class": "text",
+      "id": "5BFDAE72-8730-47E9-9AC3-A3F21E697164"
+    },
+    {
+      "class": "text",
+      "id": "82A90FE8-3E51-423C-9FFE-7FF94B6AD2ED"
+    },
+    {
+      "class": "text",
+      "id": "A68A6692-A171-415B-AE9F-1101D0B5B792"
+    },
+    {
+      "class": "group",
+      "id": "A33E1100-8C15-4969-9AE8-FD5F3AF9A399"
+    },
+    {
+      "class": "text",
+      "id": "51107CCE-6B8B-4135-BC4F-B53B0A895987"
+    },
+    {
+      "class": "text",
+      "id": "590A2CCA-8DAB-4528-8F8C-C6891437523A"
+    }
+  ],
+  "name": "login form",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "shadows": [
+      {
+        "_class": "shadow",
+        "blurRadius": 4,
+        "color": {
+          "_class": "color",
+          "alpha": 0.3,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "contextSettings": {
+          "_class": "graphicsContextSettings",
+          "blendMode": 0,
+          "opacity": 1
+        },
+        "isEnabled": true,
+        "offsetX": 0,
+        "offsetY": 2,
+        "spread": 0
+      }
+    ],
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}
