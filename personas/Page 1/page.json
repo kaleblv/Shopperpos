@@ -49,16 +49,16 @@
       "id": "CAFD5898-CE02-4FCC-AE54-449FFF805A6F"
     },
     {
-      "class": "bitmap",
-      "id": "7780C0CB-8E29-492C-8B25-B57CFB81D3F2"
+      "class": "group",
+      "id": "5E6AA2AC-0991-4D38-823B-B56A38B4B321"
     },
     {
-      "class": "bitmap",
-      "id": "6227BC88-C52B-4E90-9A74-8FE6FC8FD0E7"
+      "class": "group",
+      "id": "0F9C904F-8E18-45B0-B4BD-6D4B7981CD90"
     },
     {
-      "class": "bitmap",
-      "id": "EEC845B8-17D6-4C07-9C1A-9705BB8242EB"
+      "class": "group",
+      "id": "7CB08CEB-C371-4675-8944-D01D466FAAFF"
     }
   ],
   "name": "Page 1",

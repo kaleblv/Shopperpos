@@ -1,7 +1,7 @@
 {
   "_class": "bitmap",
   "clippingMask": "{{0, 0}, {1, 1}}",
-  "do_objectID": "6227BC88-C52B-4E90-9A74-8FE6FC8FD0E7",
+  "do_objectID": "EEC845B8-17D6-4C07-9C1A-9705BB8242EB",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -15,14 +15,14 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": true,
-    "height": 684,
-    "width": 1024,
-    "x": 414,
-    "y": 1341
+    "height": 169,
+    "width": 256,
+    "x": -39,
+    "y": -5
   },
   "image": {
     "_class": "MSJSONFileReference",
-    "_ref": "images/d5133709edd150069c62a2e24d487f7967c1ab44.png",
+    "_ref": "images/83cac30dad77d06d06fc6f03b21f3a40758dc5dd.png",
     "_ref_class": "MSImageData"
   },
   "intendedDPI": 72,
@@ -31,7 +31,7 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "outdoor-business-portrait-on-mary-court-1024x684",
+  "name": "man_male_person_young_people_adult_handsome_model-698412",
   "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -46,21 +46,6 @@
   "userInfo": {
     "com.animaapp.stc-sketch-plugin": {
       "kModelPropertiesKey": {
-        "constraints": {
-          "aspectRatio": {
-            "constant": 684,
-            "enabled": 1,
-            "modelID": "constraint_4628b103-f924-4e1d-bbbc-4aae75f66c1c",
-            "model_class": "ADModelConstraint",
-            "model_version": 0.1,
-            "multiplier": 1024
-          },
-          "automatic": 1,
-          "modelID": "viewConstraints_ab879629-2a5c-4652-a751-19400449814b",
-          "model_class": "ADModelViewConstraints",
-          "model_version": 0.1,
-          "scaleFactor": 1
-        }
       }
     }
   }

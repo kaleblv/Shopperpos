@@ -1,7 +1,7 @@
 {
   "_class": "bitmap",
   "clippingMask": "{{0, 0}, {1, 1}}",
-  "do_objectID": "EEC845B8-17D6-4C07-9C1A-9705BB8242EB",
+  "do_objectID": "6227BC88-C52B-4E90-9A74-8FE6FC8FD0E7",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -15,14 +15,14 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": true,
-    "height": 800,
-    "width": 1200,
-    "x": 373,
-    "y": 2089
+    "height": 194,
+    "width": 293,
+    "x": -55,
+    "y": -10
   },
   "image": {
     "_class": "MSJSONFileReference",
-    "_ref": "images/83cac30dad77d06d06fc6f03b21f3a40758dc5dd.png",
+    "_ref": "images/d5133709edd150069c62a2e24d487f7967c1ab44.png",
     "_ref_class": "MSImageData"
   },
   "intendedDPI": 72,
@@ -31,7 +31,7 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "man_male_person_young_people_adult_handsome_model-698412",
+  "name": "outdoor-business-portrait-on-mary-court-1024x684",
   "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -48,15 +48,15 @@
       "kModelPropertiesKey": {
         "constraints": {
           "aspectRatio": {
-            "constant": 800,
+            "constant": 194,
             "enabled": 1,
-            "modelID": "constraint_86aebd8a-bf3c-4ad9-a3e7-460470a0f546",
+            "modelID": "constraint_3ef876c3-2862-4b70-b0b4-d209300972b0",
             "model_class": "ADModelConstraint",
             "model_version": 0.1,
-            "multiplier": 1200
+            "multiplier": 292.7963
           },
           "automatic": 1,
-          "modelID": "viewConstraints_adf4c671-5007-4054-bcd2-4a43eb892528",
+          "modelID": "viewConstraints_0689a63b-4bcb-4c73-b609-cc4accffb480",
           "model_class": "ADModelViewConstraints",
           "model_version": 0.1,
           "scaleFactor": 1

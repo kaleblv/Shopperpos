@@ -1,7 +1,6 @@
 {
-  "_class": "bitmap",
-  "clippingMask": "{{0, 0}, {1, 1}}",
-  "do_objectID": "7780C0CB-8E29-492C-8B25-B57CFB81D3F2",
+  "_class": "group",
+  "do_objectID": "7CB08CEB-C371-4675-8944-D01D466FAAFF",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -11,27 +10,31 @@
     "layerOptions": 0,
     "shouldTrim": false
   },
-  "fillReplacesImage": false,
   "frame": {
     "_class": "rect",
-    "constrainProportions": true,
-    "height": 523,
-    "width": 928,
-    "x": 414,
-    "y": 769
+    "constrainProportions": false,
+    "height": 153,
+    "width": 153,
+    "x": 812,
+    "y": 747
   },
-  "image": {
-    "_class": "MSJSONFileReference",
-    "_ref": "images/9a4851d20c41b044aefc7d8e3c7d171912091d81.png",
-    "_ref_class": "MSImageData"
-  },
-  "intendedDPI": 72,
+  "hasClickThrough": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "ricki_lake_portrait_a_l",
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "2079DD00-09CB-409F-A485-E226D15222D9"
+    },
+    {
+      "class": "bitmap",
+      "id": "EEC845B8-17D6-4C07-9C1A-9705BB8242EB"
+    }
+  ],
+  "name": "man_male_person_young_people_adult_handsome_model-698412",
   "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -42,5 +45,11 @@
     "endDecorationType": 0,
     "miterLimit": 10,
     "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
   }
 }
