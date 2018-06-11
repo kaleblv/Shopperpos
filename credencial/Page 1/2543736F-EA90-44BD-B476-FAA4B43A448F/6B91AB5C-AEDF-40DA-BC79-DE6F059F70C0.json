@@ -1,0 +1,57 @@
+{
+  "_class": "bitmap",
+  "clippingMask": "{{0, 0}, {1, 1}}",
+  "do_objectID": "6B91AB5C-AEDF-40DA-BC79-DE6F059F70C0",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "E0FEDD6F-4241-43FA-BDF7-C68E59047D60",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "fillReplacesImage": false,
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "1C77C030-74EF-4A35-94D2-BF0A5C763DE0",
+    "height": 61,
+    "width": 61,
+    "x": 80,
+    "y": 209
+  },
+  "image": {
+    "_class": "MSJSONFileReference",
+    "_ref": "images/abd01faf9347c03f2ccc893a06ffb65466b43833",
+    "_ref_class": "MSImageData"
+  },
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "qr-code",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "AF003368-E7EC-447C-AACA-A8A8A1AD55BB",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

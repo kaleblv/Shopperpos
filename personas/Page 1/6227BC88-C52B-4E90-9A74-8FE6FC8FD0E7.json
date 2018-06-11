@@ -1,0 +1,67 @@
+{
+  "_class": "bitmap",
+  "clippingMask": "{{0, 0}, {1, 1}}",
+  "do_objectID": "6227BC88-C52B-4E90-9A74-8FE6FC8FD0E7",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "fillReplacesImage": false,
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "height": 684,
+    "width": 1024,
+    "x": 414,
+    "y": 1341
+  },
+  "image": {
+    "_class": "MSJSONFileReference",
+    "_ref": "images/d5133709edd150069c62a2e24d487f7967c1ab44.png",
+    "_ref_class": "MSImageData"
+  },
+  "intendedDPI": 72,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "outdoor-business-portrait-on-mary-court-1024x684",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "constraints": {
+          "aspectRatio": {
+            "constant": 684,
+            "enabled": 1,
+            "modelID": "constraint_4628b103-f924-4e1d-bbbc-4aae75f66c1c",
+            "model_class": "ADModelConstraint",
+            "model_version": 0.1,
+            "multiplier": 1024
+          },
+          "automatic": 1,
+          "modelID": "viewConstraints_ab879629-2a5c-4652-a751-19400449814b",
+          "model_class": "ADModelViewConstraints",
+          "model_version": 0.1,
+          "scaleFactor": 1
+        }
+      }
+    }
+  }
+}

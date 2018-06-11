@@ -1,0 +1,66 @@
+{
+  "_class": "group",
+  "do_objectID": "7F6B9AF5-D8A9-4195-B967-5DAAF6C42901",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 325,
+    "width": 204,
+    "x": 8,
+    "y": 8
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "A8196D4E-5BCA-4423-942B-008A3BB2DB38"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "87726BFB-FB9C-4639-A201-80C4C1A961E6"
+    },
+    {
+      "class": "group",
+      "id": "24997BEB-C52D-4D8E-84F6-739BC228AA66"
+    },
+    {
+      "class": "text",
+      "id": "08347C71-ADB6-4621-8D4F-1AA132C897DC"
+    }
+  ],
+  "name": "fondo",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

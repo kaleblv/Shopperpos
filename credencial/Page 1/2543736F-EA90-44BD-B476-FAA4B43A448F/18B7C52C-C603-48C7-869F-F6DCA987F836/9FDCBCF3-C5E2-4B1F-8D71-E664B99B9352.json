@@ -1,0 +1,48 @@
+{
+  "_class": "bitmap",
+  "clippingMask": "{{0, 0}, {1, 1}}",
+  "do_objectID": "9FDCBCF3-C5E2-4B1F-8D71-E664B99B9352",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "DB892900-7F73-4136-98A4-4623AEA005CB",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "fillReplacesImage": false,
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "ACF3C33B-0547-41C5-B905-8705F910F07B",
+    "height": 80,
+    "width": 80,
+    "x": -2,
+    "y": -2
+  },
+  "image": {
+    "_class": "MSJSONFileReference",
+    "_ref": "images/5837dc6b3d32323185f14e4b73e8fc943645cb42",
+    "_ref_class": "MSImageData"
+  },
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "gaia-vendedor-1",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "AB5C771E-F551-4C20-8A52-20B62AB07F1F",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

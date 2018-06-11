@@ -1,0 +1,48 @@
+{
+  "_class": "bitmap",
+  "clippingMask": "{{0, 0}, {1, 1}}",
+  "do_objectID": "13C33E70-50AA-447C-9C4D-76F52D65808E",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "466A61E3-D003-43A1-8207-270DDCFBDC42",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "fillReplacesImage": false,
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "CC610143-2AB9-4A21-82BB-572D7A0813E0",
+    "height": 108,
+    "width": 326,
+    "x": 287,
+    "y": 171
+  },
+  "image": {
+    "_class": "MSJSONFileReference",
+    "_ref": "images/c7a6eb581fde054e03cb9ffebd7086ca0f44dd2f",
+    "_ref_class": "MSImageData"
+  },
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "LogotipoGAIA_black",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "C132877E-0AC4-462C-8768-A443ACA7D13C",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

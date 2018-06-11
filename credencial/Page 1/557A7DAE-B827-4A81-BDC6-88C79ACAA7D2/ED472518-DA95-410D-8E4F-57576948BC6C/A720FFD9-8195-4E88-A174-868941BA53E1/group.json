@@ -1,0 +1,49 @@
+{
+  "_class": "group",
+  "do_objectID": "A720FFD9-8195-4E88-A174-868941BA53E1",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 347,
+    "width": 347,
+    "x": 277,
+    "y": 362
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "C6744830-F868-4D0B-9026-8C68DE7E2FD9"
+    },
+    {
+      "class": "bitmap",
+      "id": "ED14BB4F-1C61-479A-90AF-ACF9A8B02CD2"
+    }
+  ],
+  "name": "gaia-vendedor-1",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}
