@@ -92,6 +92,14 @@
     {
       "class": "shapeGroup",
       "id": "4A998675-9026-488B-A35F-6AF303C7A59E"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "A3909F1C-08E2-4079-B61C-4A3D1C12BB6C"
+    },
+    {
+      "class": "text",
+      "id": "52456ABF-14CB-4990-9761-1C4E6738C29F"
     }
   ],
   "layout": {
