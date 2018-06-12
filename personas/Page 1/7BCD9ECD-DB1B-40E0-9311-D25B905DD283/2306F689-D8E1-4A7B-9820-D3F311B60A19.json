@@ -9,14 +9,14 @@
           "MSAttributedStringColorAttribute": {
             "_class": "color",
             "alpha": 1,
-            "blue": 0.4745098039215686,
-            "green": 0.4745098039215686,
-            "red": 0.4745098039215686
+            "blue": 1,
+            "green": 1,
+            "red": 1
           },
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "Roboto-Italic",
+              "name": "Roboto-Black",
               "size": 21
             }
           },
@@ -28,14 +28,14 @@
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 34,
+        "length": 14,
         "location": 0
       }
     ],
-    "string": "“Where I can automate everything?”"
+    "string": "Carlos Herrera"
   },
   "automaticallyDrawOnUnderlyingPath": false,
-  "do_objectID": "AE458C02-7292-46E3-83C5-53C97C4FC4AC",
+  "do_objectID": "2306F689-D8E1-4A7B-9820-D3F311B60A19",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
@@ -50,18 +50,18 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 24,
-    "width": 347,
+    "width": 148,
     "x": 18,
-    "y": 99
+    "y": 21
   },
-  "glyphBounds": "{{1, 3}, {346, 21}}",
+  "glyphBounds": "{{0, 3}, {147, 17}}",
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "“Where I can automat",
+  "name": "Carlos Herrera",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,
@@ -78,14 +78,14 @@
         "MSAttributedStringColorAttribute": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.4745098039215686,
-          "green": 0.4745098039215686,
-          "red": 0.4745098039215686
+          "blue": 1,
+          "green": 1,
+          "red": 1
         },
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "Roboto-Italic",
+            "name": "Roboto-Black",
             "size": 21
           }
         },

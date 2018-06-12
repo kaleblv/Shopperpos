@@ -16,29 +16,32 @@
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "Roboto-Italic",
-              "size": 21
+              "name": "Roboto-Light",
+              "size": 14
             }
           },
-          "kerning": 0.6705264,
+          "kerning": 0.4470176,
           "paragraphStyle": {
             "_class": "paragraphStyle",
             "alignment": 0,
-            "allowsDefaultTighteningForTruncation": 0
+            "allowsDefaultTighteningForTruncation": 0,
+            "maximumLineHeight": 18,
+            "minimumLineHeight": 18
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 34,
+        "length": 135,
         "location": 0
       }
     ],
-    "string": "“Where I can automate everything?”"
+    "string": "The complexity of configuration options \nRemember steps and required field for tasks\nNot terribly tech savvy - doesn't like the process"
   },
   "automaticallyDrawOnUnderlyingPath": false,
-  "do_objectID": "AE458C02-7292-46E3-83C5-53C97C4FC4AC",
+  "do_objectID": "A9B894FE-B07B-4064-8477-D14E8EDCAFE1",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
+    "do_objectID": "72CB3CB6-C501-4218-8E29-658F9CB4F2F0",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -49,31 +52,34 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 24,
-    "width": 347,
-    "x": 18,
-    "y": 99
+    "do_objectID": "3A78656E-508A-4DA3-BF3B-9E9250012CA3",
+    "height": 150,
+    "width": 236,
+    "x": 0,
+    "y": 43
   },
-  "glyphBounds": "{{1, 3}, {346, 21}}",
+  "glyphBounds": "{{0, 3}, {230, 104}}",
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "“Where I can automat",
+  "name": "The complexity of co",
   "nameIsFixed": false,
-  "resizingConstraint": 47,
+  "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
+    "do_objectID": "CB0C9ABB-062A-4D8D-8B3B-C80BA4A2CE2C",
     "endDecorationType": 0,
     "miterLimit": 10,
     "startDecorationType": 0,
     "textStyle": {
       "_class": "textStyle",
+      "do_objectID": "36087BED-AD1A-43CC-8769-AD89C4E2901D",
       "encodedAttributes": {
         "MSAttributedStringColorAttribute": {
           "_class": "color",
@@ -85,26 +91,28 @@
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "Roboto-Italic",
-            "size": 21
+            "name": "Roboto-Light",
+            "size": 14
           }
         },
-        "kerning": 0.6705264,
+        "kerning": 0.4470176,
         "paragraphStyle": {
           "_class": "paragraphStyle",
           "alignment": 0,
-          "allowsDefaultTighteningForTruncation": 0
+          "allowsDefaultTighteningForTruncation": 0,
+          "maximumLineHeight": 18,
+          "minimumLineHeight": 18
         },
         "textStyleVerticalAlignmentKey": 0
       },
       "verticalAlignment": 0
     }
   },
-  "textBehaviour": 0,
+  "textBehaviour": 2,
   "userInfo": {
     "com.animaapp.stc-sketch-plugin": {
       "kModelPropertiesKey": {
-        "isAutoWidth": 1
+        "isAutoWidth": 0
       }
     }
   }

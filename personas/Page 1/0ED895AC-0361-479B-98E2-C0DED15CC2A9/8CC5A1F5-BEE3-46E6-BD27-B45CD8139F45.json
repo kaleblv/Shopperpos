@@ -28,17 +28,18 @@
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 34,
+        "length": 70,
         "location": 0
       }
     ],
-    "string": "“Where I can automate everything?”"
+    "string": "“The way this works makes me question \nabout how I manage my business”"
   },
   "automaticallyDrawOnUnderlyingPath": false,
-  "do_objectID": "AE458C02-7292-46E3-83C5-53C97C4FC4AC",
+  "do_objectID": "8CC5A1F5-BEE3-46E6-BD27-B45CD8139F45",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
+    "do_objectID": "E03C8789-1158-408D-9859-18F058F05B34",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -49,19 +50,20 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 24,
-    "width": 347,
+    "do_objectID": "93FF3F02-9F92-4036-A919-0EB4A6607A3A",
+    "height": 48,
+    "width": 398,
     "x": 18,
     "y": 99
   },
-  "glyphBounds": "{{1, 3}, {346, 21}}",
+  "glyphBounds": "{{0, 3}, {390, 45}}",
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "“Where I can automat",
+  "name": "“The way this works",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,
@@ -69,11 +71,13 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
+    "do_objectID": "B0FA8E86-63E1-4245-A66D-D3F33FA923C3",
     "endDecorationType": 0,
     "miterLimit": 10,
     "startDecorationType": 0,
     "textStyle": {
       "_class": "textStyle",
+      "do_objectID": "B4BB3783-31F8-40B1-A0FF-72D676E88824",
       "encodedAttributes": {
         "MSAttributedStringColorAttribute": {
           "_class": "color",

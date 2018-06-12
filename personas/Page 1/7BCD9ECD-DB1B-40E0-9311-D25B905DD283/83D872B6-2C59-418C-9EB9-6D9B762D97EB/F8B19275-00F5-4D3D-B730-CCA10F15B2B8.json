@@ -9,18 +9,18 @@
           "MSAttributedStringColorAttribute": {
             "_class": "color",
             "alpha": 1,
-            "blue": 0.4745098039215686,
-            "green": 0.4745098039215686,
-            "red": 0.4745098039215686
+            "blue": 0.2431372549019608,
+            "green": 0.3960784313725489,
+            "red": 0.9294117647058824
           },
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "Roboto-Italic",
-              "size": 21
+              "name": "Roboto-Medium",
+              "size": 18
             }
           },
-          "kerning": 0.6705264,
+          "kerning": 0.4470176,
           "paragraphStyle": {
             "_class": "paragraphStyle",
             "alignment": 0,
@@ -28,14 +28,14 @@
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 34,
+        "length": 3,
         "location": 0
       }
     ],
-    "string": "“Where I can automate everything?”"
+    "string": "Bio"
   },
   "automaticallyDrawOnUnderlyingPath": false,
-  "do_objectID": "AE458C02-7292-46E3-83C5-53C97C4FC4AC",
+  "do_objectID": "F8B19275-00F5-4D3D-B730-CCA10F15B2B8",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
@@ -49,19 +49,19 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 24,
-    "width": 347,
-    "x": 18,
-    "y": 99
+    "height": 21,
+    "width": 28,
+    "x": 1,
+    "y": 0
   },
-  "glyphBounds": "{{1, 3}, {346, 21}}",
+  "glyphBounds": "{{1, 3}, {26, 15}}",
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "“Where I can automat",
+  "name": "Bio",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,
@@ -78,18 +78,18 @@
         "MSAttributedStringColorAttribute": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.4745098039215686,
-          "green": 0.4745098039215686,
-          "red": 0.4745098039215686
+          "blue": 0.2431372549019608,
+          "green": 0.3960784313725489,
+          "red": 0.9294117647058824
         },
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "Roboto-Italic",
-            "size": 21
+            "name": "Roboto-Medium",
+            "size": 18
           }
         },
-        "kerning": 0.6705264,
+        "kerning": 0.4470176,
         "paragraphStyle": {
           "_class": "paragraphStyle",
           "alignment": 0,
